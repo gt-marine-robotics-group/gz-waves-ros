@@ -1,0 +1,5 @@
+repositories:
+  asv_wave_sim:
+    type: git
+    url: https://github.com/srmainwaring/asv_wave_sim
+    version: 40eed5158fcab37421826ffa3ba33aab94d55e28
